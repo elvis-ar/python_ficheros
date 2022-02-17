@@ -6,7 +6,7 @@ def main():
     
     for item in line:
         print(item)
-        # obteniendo solo un el resultado
+        # obteniendo solo un valor -> el resultado
         print(item[8:].lstrip())
     
 
